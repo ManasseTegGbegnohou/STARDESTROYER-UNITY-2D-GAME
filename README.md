@@ -19,6 +19,14 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ---
 
+## 👾 Télécharger le jeu
+- Cliquez sur **Code**
+- Ensuite cliquez sur **Télécharger zip**
+<img width="401" height="439" alt="image" src="https://github.com/user-attachments/assets/ba15a3d2-8207-4cd8-a247-de9b52e40f07" />
+
+
+---
+
 ## ✨ Fonctionnalités
 
 - Contrôle d’un vaisseau spatial  
