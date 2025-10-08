@@ -1,4 +1,4 @@
-# STARDESTROYER-UNITY-2D-GAME
+# 🌌 STARDESTROYER — UNITY 2D GAME
 
 ## 🎮 Description
 
@@ -9,10 +9,20 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ---
 
+## 🎥 Vidéo de démonstration
+
+<p align="center">
+  <a href="https://youtu.be/pPhPIZMDCR8">
+    <img src="https://img.youtube.com/vi/pPhPIZMDCR8/maxresdefault.jpg" alt="Vidéo de démonstration du jeu" width="600">
+  </a>
+</p>
+
+---
+
 ## ✨ Fonctionnalités
 
-- Contrôle d’un vaisseau spatial
-- Projectiles et explosions
+- Contrôle d’un vaisseau spatial  
+- Projectiles et explosions  
 - Effets visuels (étoiles, particules)  
 
 ---
@@ -27,10 +37,10 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 - Amélioration des effets visuels et sonores  
 - Système de sélection de vaisseaux  
-- Ajout de nouvelles vagues et bonus
-- Différents vaisseaux jouables
+- Ajout de nouvelles vagues et bonus  
+- Différents vaisseaux jouables  
 - Système de score  
-- Mode de jeu en vague d'ennemis
+- Mode de jeu en vagues d’ennemis  
 
 ---
 
