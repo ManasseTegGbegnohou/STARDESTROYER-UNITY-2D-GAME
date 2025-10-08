@@ -22,8 +22,9 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 ## 👾 Télécharger le jeu
 - Cliquez sur **Code**
 - Ensuite cliquez sur **Télécharger zip**
-<img width="401" height="439" alt="image" src="https://github.com/user-attachments/assets/ba15a3d2-8207-4cd8-a247-de9b52e40f07" />
-
+<p align="center">
+<img width="395" height="429" alt="image" src="https://github.com/user-attachments/assets/83e7e60a-b895-499f-bf00-5e67926e6461" />
+</p>
 
 ---
 
