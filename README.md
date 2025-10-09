@@ -39,5 +39,5 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ## 👤 Auteur
 
-**Manasse Teg Gbegnohou**  
+**Manassé Teg Gbegnohou**  
 Projet réalisé en 2025
