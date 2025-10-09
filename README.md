@@ -9,7 +9,7 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ---
 
-## 🎥 Vidéo de démonstration
+## 🎥 Vidéo de démonstration (Cliquez sur l'image)
 
 <p align="center">
   <a href="https://youtu.be/utw3Wgwx5jg">
