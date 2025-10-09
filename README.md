@@ -1,4 +1,4 @@
-# 🌌 STARDESTROYER — UNITY 2D GAME
+# STARDESTROYER — UNITY 2D GAME
 
 ## 🎮 Description
 
