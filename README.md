@@ -3,7 +3,7 @@
 ## 🎮 Description
 
 **STARDESTROYER** est un jeu de type *Shoot ’em Up* vu de dessus.  
-Le joueur contrôle un vaisseau spatial et doit esquiver les projectiles ennemis tout en détruisant des vagues de vaisseaux adverses.
+Le joueur contrôle un vaisseau spatial et doit esquiver les projectiles ennemis tout en détruisant des vagues d'ennemies/vaisseaux adverses.
 
 Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gungeon*, notamment pour son aspect *bullet hell* et son style graphique.
 
@@ -27,30 +27,13 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
   <img width="395" height="429" alt="image" src="https://github.com/user-attachments/assets/83e7e60a-b895-499f-bf00-5e67926e6461" />
 </p>
 
----
-
-## ✨ Fonctionnalités
-
-- Contrôle d’un vaisseau spatial  
-- Projectiles et explosions  
-- Effets visuels (étoiles, particules)  
-
----
-
-## 🕹️ Objectif
-
-Éliminer tous les ennemis et passer au niveau suivant.
-
----
-
 ## 🛠️ À venir
 
-- Amélioration des effets visuels et sonores  
-- Système de sélection de vaisseaux  
-- Ajout de nouvelles vagues et bonus  
-- Différents vaisseaux jouables  
-- Système de score  
-- Mode de jeu en vagues d’ennemis  
+- Amélioration des effets visuels et sonores
+- Ajout de nouvelles vagues et bonus
+- Différents vaisseaux jouables
+- Système de score
+- Mode de jeu en vagues d’ennemis inifies/mode survie 
 
 ---
 
