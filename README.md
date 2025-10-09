@@ -2,7 +2,7 @@
 
 ## 🎮 Description
 
-**Space Shooter** est un jeu de type *Shoot ’em Up* vu de dessus.  
+**STARDESTROYER** est un jeu de type *Shoot ’em Up* vu de dessus.  
 Le joueur contrôle un vaisseau spatial et doit esquiver les projectiles ennemis tout en détruisant des vagues de vaisseaux adverses.
 
 Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gungeon*, notamment pour son aspect *bullet hell* et son style graphique.
